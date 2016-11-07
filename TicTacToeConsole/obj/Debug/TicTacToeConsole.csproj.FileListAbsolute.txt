@@ -1,0 +1,6 @@
+c:\users\vidar.tedenbrant\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe.config
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.pdb
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.csprojResolveAssemblyReference.cache
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.exe
+C:\Users\vidar.tedenbrant\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.pdb
